@@ -15,7 +15,7 @@
    version="1.1"
    id="svg15549"
    inkscape:version="0.92.4 (1a1d78ad89, 2019-08-13)"
-   sodipodi:docname="fire3-full.svg">
+   sodipodi:docname="fire3-full2.svg">
   <defs
      id="defs15543" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4072014"
-     inkscape:cx="391.29218"
-     inkscape:cy="144.51334"
+     inkscape:cx="377.55763"
+     inkscape:cy="105.71139"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg15549"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2558"
      inkscape:window-height="1408"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,9 +76,10 @@
        style="fill:none;stroke:#0000ff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter" />
     <path
        inkscape:connector-curvature="0"
-       d="m 76.710256,272.49167 v -3 -1.25714 -1.25714 h -3 v -3.01429 h 3 v -2.51428 h -3 v -3.01429 h 3 v -2.51429 h -3 v -3.01429 h 3 v -1.25714 -1.25714 -3 h 1.954546 1.954545 v 3 h 3.409091 v -3 h 3.909091 v 3 h 3.409091 v -3 h 3.909091 v 3 h 3.409091 v -3 h 3.909088 v 3 h 3.40909 v -3 h 3.90909 v 3 h 3.40909 v -3 h 1.95455 1.95454 v 3 1.25714 1.25714 h 3 v 3.01429 h -3 v 2.51429 h 3 v 3.01429 h -3 v 2.51428 h 3 v 3.01429 h -3 v 1.25714 1.25714 3 h -1.95454 -1.95455 v -3 h -3.40909 v 3 h -3.90909 v -3 h -3.40909 v 3 h -3.909088 v -3 h -3.409091 v 3 H 91.34662 v -3 h -3.409091 v 3 h -3.909091 v -3 h -3.409091 v 3 h -1.954545 -1.954546"
+       d="m 76.710256,272.49167 v -3 -1.25714 -1.25714 h -3 v -3.01429 h 3 v -2.51428 h -3 v -3.01429 h 3 v -2.51429 h -3 v -3.01429 h 3 v -1.25714 -1.25714 -3 h 1.954546 1.954545 v 3 h 3.409091 v -3 c 14.176587,-0.0213 14.245521,0.055 25.863632,0 v 3 h 3.40909 v -3 h 1.95455 1.95454 v 3 1.25714 1.25714 h 3 v 3.01429 h -3 v 2.51429 h 3 v 3.01429 h -3 v 2.51428 h 3 v 3.01429 h -3 v 1.25714 1.25714 3 h -1.95454 -1.95455 v -3 h -3.40909 v 3 h -3.90909 v -3 h -3.40909 v 3 h -3.909088 v -3 h -3.409091 v 3 H 91.34662 v -3 h -3.409091 v 3 h -3.909091 v -3 h -3.409091 v 3 h -1.954545 -1.954546"
        id="box-endface2"
-       style="fill:none;stroke:#0000ff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter" />
+       style="fill:none;stroke:#0000ff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        inkscape:connector-curvature="0"
        d="m 76.710257,216.0873 v -3 -1.25714 -1.25714 h -3 v -3.01429 h 3 v -2.51428 h -3 v -3.01429 h 3 v -2.51429 h -3 v -3.01429 h 3 v -1.25714 -1.25714 -3 h 1.954546 1.954545 v 3 h 3.409091 v -3 h 3.909091 v 3 h 3.409091 v -3 h 3.909091 v 3 h 3.409091 v -3 h 3.909087 v 3 h 3.40909 v -3 h 3.90909 v 3 h 3.40909 v -3 h 1.95455 1.95454 v 3 1.25714 1.25714 h 3 v 3.01429 h -3 v 2.51429 h 3 v 3.01429 h -3 v 2.51428 h 3 v 3.01429 h -3 v 1.25714 1.25714 3 h -1.95454 -1.95455 v -3 h -3.40909 v 3 h -3.90909 v -3 h -3.40909 v 3 h -3.909087 v -3 h -3.409091 v 3 h -3.909091 v -3 H 87.93753 v 3 h -3.909091 v -3 h -3.409091 v 3 h -1.954545 -1.954546"
