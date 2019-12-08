@@ -1,7 +1,27 @@
+# Laser-Cut Enclosures for Single Board Computers (SBC)
+
 This project proposes models of lasercut enclosures for various modern SBCs.
 Some of them are provided for a given thickness, others are split between
 multiple layers which allow one to re-define variations without affecting
 the holes locations that can be adjusted at the last moment.
+
+## Examples of realizations
+
+The enclosures below were made on an [EleksMaker A3 Pro laser engraver](https://wtarreau.blogspot.com/2019/09/my-first-experiments-with-eleksmaker-a3.html).
+
+[FriendlyELEC NanoPi Fire3](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=206):
+
+![FriendlyELEC NanoPi-Fire3](nanopi-fire3/assembled.jpg?raw=true)
+
+[SolidRun Clearfog Base](https://www.solid-run.com/marvell-armada-family/clearfog/):
+
+![SolidRun Clearfog-Base](clearfog-base/assembled.jpg?raw=true)
+
+[Libre Computer AML-S80X-AC ("La Frite")](https://libre.computer/products/boards/aml-s805x-ac/):
+
+![Libre Computer AML-S805X-AC - La Frite](aml-s805x-ac/plugged.jpg?raw=true)
+
+## Contributing
 
 The project must be organized with one directory per board name. Please
 be as specific as possible regarding the naming to avoid any later
@@ -46,4 +66,3 @@ Given that it is reasonably easy to adjust GCODE output, if an enclosure
 is produced for common materials (e.g. 3mm thick acrylic), it can be very
 convenient for end users to also provide the GCODE output. Be careful
 however that this will rarely work if some engraving layer is present.
-
