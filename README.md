@@ -24,6 +24,10 @@ The enclosures below were made on an [EleksMaker A3 Pro laser engraver](https://
 
 ![Libre Computer AML-S805X-AC - La Frite](aml-s805x-ac/plugged.jpg?raw=true)
 
+[UP Board (https://up-board.org/up/specifications/):
+
+![UP Board](up-board/case-back.jpg?raw=true)
+
 ## Contributing
 
 The project must be organized with one directory per board name. Please
