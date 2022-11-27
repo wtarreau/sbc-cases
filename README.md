@@ -9,9 +9,14 @@ the holes locations that can be adjusted at the last moment.
 
 The enclosures below were made on an [EleksMaker A3 Pro laser engraver](https://wtarreau.blogspot.com/2019/09/my-first-experiments-with-eleksmaker-a3.html).
 
+[Odroid H2/H3](https://www.hardkernel.com/shop/odroid-h3/):
+
+![Odroid H2/H3](odroid-h2-h3/rear.jpg?raw=true)
+
 [Khadas VIM3/VIM3L](https://docs.khadas.com/vim3/index.html):
 
 ![Khadas VIM3/VIM3L](vim3/vim3-assembled.jpg?raw=true)
+
 [FriendlyELEC NanoPi Fire3](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=206):
 
 ![FriendlyELEC NanoPi-Fire3](nanopi-fire3/assembled.jpg?raw=true)
