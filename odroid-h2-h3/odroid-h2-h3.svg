@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="odroid-h3-enc6.svg"
+   sodipodi:docname="odroid-h3-enc7.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.39120536"
-     inkscape:cx="559.80828"
-     inkscape:cy="397.48944"
+     inkscape:zoom="0.78241071"
+     inkscape:cx="428.16387"
+     inkscape:cy="396.8504"
      inkscape:window-width="1487"
      inkscape:window-height="829"
      inkscape:window-x="34"
      inkscape:window-y="17"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer4"
      objecttolerance="1"
      gridtolerance="10"
      guidetolerance="1">
@@ -75,6 +75,20 @@
        cy="-6.7000017"
        r="1.694"
        transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="pwbutton"
+     style="display:none">
+    <path
+       id="rect89655"
+       style="fill:none;stroke:#000000;stroke-width:0.105227"
+       d="m 0.05261172,209.94738 v -25.89476 c 0,0 1.03e-6,0 1.03e-6,0 H 47.947383 c 0,0 10e-7,0 10e-7,0 v 25.89476 c 0,0 -10e-7,0 -10e-7,0 H 0.05261275 c 0,0 -1.03e-6,0 -1.03e-6,0 z" />
+    <path
+       id="path90618"
+       style="fill:none;stroke:#000000;stroke-width:0.0993789"
+       d="M 10.5,189.04969 A 7.9503107,7.9503107 0 0 1 18.450311,197 7.9503107,7.9503107 0 0 1 10.5,204.95031 7.9503107,7.9503107 0 0 1 2.549689,197 7.9503107,7.9503107 0 0 1 10.5,189.04969 Z" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -892,6 +906,14 @@
          style="fill:none;stroke:#000000;stroke-width:0.0999999;paint-order:fill markers stroke"
          d="m 63.700002,194.694 a 1.694,1.694 0 0 1 -1.694,-1.694 1.694,1.694 0 0 1 1.694,-1.694 1.694,1.694 0 0 1 1.694,1.694 1.694,1.694 0 0 1 -1.694,1.694 z" />
     </g>
+    <path
+       id="rect89655-9"
+       style="fill:none;stroke:#000000;stroke-width:0.105227"
+       d="m 243.05262,48.052612 h 25.89476 c 0,0 0,10e-7 0,10e-7 v 47.89477 c 0,0 0,10e-7 0,10e-7 h -25.89476 c 0,0 0,-10e-7 0,-10e-7 v -47.89477 c 0,0 0,-10e-7 0,-10e-7 z" />
+    <path
+       id="path90618-3"
+       style="fill:none;stroke:#000000;stroke-width:0.0993789"
+       d="M 263.95031,58.5 A 7.9503107,7.9503107 0 0 1 256,66.450311 7.9503107,7.9503107 0 0 1 248.04969,58.5 7.9503107,7.9503107 0 0 1 256,50.549689 7.9503107,7.9503107 0 0 1 263.95031,58.5 Z" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1354,5 +1376,13 @@
        cx="435"
        cy="148.3"
        r="1.694" />
+    <path
+       id="rect89655-9-0"
+       style="fill:none;stroke:#000000;stroke-width:0.105227"
+       d="m 441.05262,162.05261 h 25.89476 c 0,0 0,1e-5 0,1e-5 v 47.89476 c 0,0 0,0 0,0 h -25.89476 c 0,0 0,0 0,0 v -47.89476 c 0,0 0,-1e-5 0,-1e-5 z" />
+    <path
+       id="path90618-3-6"
+       style="fill:none;stroke:#000000;stroke-width:0.0993789"
+       d="M 461.95031,172.5 A 7.9503107,7.9503107 0 0 1 454,180.45031 7.9503107,7.9503107 0 0 1 446.04969,172.5 7.9503107,7.9503107 0 0 1 454,164.54969 7.9503107,7.9503107 0 0 1 461.95031,172.5 Z" />
   </g>
 </svg>
